@@ -20,11 +20,11 @@ const About = () => {
               <h2 className='text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block'>
                 Think-It-Solutions
               </h2>
-              <p className='mb-4 text-accent'>
-                graphics design,mobile and web development,branding
+              <p className='mb-4 text-accent text-lg uppercase'>
+              mobile and web development,graphics design,branding
               </p>
               <hr className='mb-8 opacity-5' />
-              <p className='mb-8'>
+              <p className='mb-8 text-neutral-100'>
               At our company, We specialize in mobile and web development, 
                creating dynamic and responsive websites and mobile apps
                 that are optimized for performance, user experience,

@@ -11,7 +11,7 @@ const Portfolio = () => {
           <h2 className='section-title before:content-portfolio relative before:absolute before:opacity-40 before:-top-[2rem] before:-left-3/4 before:hidden before:lg:block'>
             Our latest work
           </h2>
-          <p className='subtitle'>
+          <p className='subtitle text-neutral-100'>
           In addition to web design and development, we also offer branding services 
           to help you establish a consistent and recognizable identity for your brand
           Our branding services establish a consistent and recognizable identity that 

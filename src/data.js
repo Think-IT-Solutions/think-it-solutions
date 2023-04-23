@@ -41,6 +41,12 @@ import SkillImg6 from './assets/img/skills/nodejs.png';
 import SkillImg7 from './assets/img/skills/git.png';
 import SkillImg8 from './assets/img/skills/figma.png';
 
+//owners image
+
+import OwnerImg1 from './assets/img/owners/davi.jpg'
+import OwnerImg2 from './assets/img/owners/kal.jpg'
+import OwnerImg3 from './assets/img/owners/dev.jpg'
+
 // testimonial images
 
 import TestiImage4 from './assets/img/testimonials/gatcot.jpg'
@@ -214,7 +220,26 @@ export const skills = [
     image: SkillImg8,
   },
 ];
+//Owners
+export const owners = [
+  {
+    image:OwnerImg1,
+    description:"Design and Branding Manager",
+    name:"Davi"
+  },
+  {
+    image:OwnerImg2,
+    description:"CEO Senior Developer",
+    name:"Kal"
 
+  },{
+    image:OwnerImg3,
+    description:"Team Leader Senior Developer",
+    name:"Dev"
+
+  }
+
+]
 // services
 export const services = [
   {

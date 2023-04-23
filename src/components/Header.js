@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import Nav from '../components/Nav';
 import NavMobile from '../components/NavMobile';
 import Socials from './Socials';
-// import Logo from '../assets/img/logo4.jpg'
+import Logo from '../assets/img/tt2.png'
 const Header = () => {
   const [bg, setBg] = useState(false);
 
@@ -22,10 +22,10 @@ const Header = () => {
     >
       <div className='container mx-auto h-full flex items-center justify-between'>
         {/* logo */}
-        <div className='flex items-center justify-between'>
+        <div className='flex items-start justify-between'>
           <a href='/'>
-            {/* <img className='h-16 w-16'src={Logo} alt='logo' /> */}
-            <h1 className='text-2xl italic'> Think-IT-Solutions! </h1>
+            <img className='h-46 w-60 rounded-lg'src={Logo} alt='logo' />
+            {/* <h1 className='text-2xl italic'> Think-IT-Solutions! </h1> */}
           </a>
         </div>
         
