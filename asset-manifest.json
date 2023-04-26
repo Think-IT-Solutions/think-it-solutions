@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/think-it-solutions/static/css/main.c712f7ea.css",
-    "main.js": "/think-it-solutions/static/js/main.e1e884bc.js",
+    "main.css": "/think-it-solutions/static/css/main.2bbe6580.css",
+    "main.js": "/think-it-solutions/static/js/main.a310251e.js",
     "static/media/banner2.png": "/think-it-solutions/static/media/banner2.b3924d6a4b8b19ef9de9.png",
     "static/media/davi.jpg": "/think-it-solutions/static/media/davi.07927c3c45cb73f5a008.jpg",
     "static/media/ayi.png": "/think-it-solutions/static/media/ayi.5d2b57d8c0d2d1f7ed35.png",
@@ -23,11 +23,11 @@
     "static/media/p4.webp": "/think-it-solutions/static/media/p4.373ffd063f14c91c84c5.webp",
     "static/media/about.svg": "/think-it-solutions/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/think-it-solutions/index.html",
-    "main.c712f7ea.css.map": "/think-it-solutions/static/css/main.c712f7ea.css.map",
-    "main.e1e884bc.js.map": "/think-it-solutions/static/js/main.e1e884bc.js.map"
+    "main.2bbe6580.css.map": "/think-it-solutions/static/css/main.2bbe6580.css.map",
+    "main.a310251e.js.map": "/think-it-solutions/static/js/main.a310251e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c712f7ea.css",
-    "static/js/main.e1e884bc.js"
+    "static/css/main.2bbe6580.css",
+    "static/js/main.a310251e.js"
   ]
 }
