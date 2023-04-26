@@ -22,7 +22,7 @@ const Footer = () => {
             })}
           </div>
           <div>
-          <img className='h-56 w-80 rounded-lg'src={Logo} alt='logo' />
+          <img className='h-56 w-80 rounded-lg hover:scale-110'src={Logo} alt='logo' />
             {/* <h1 className='text-2xl italic'> Think-IT-Solutions! </h1> */}
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>

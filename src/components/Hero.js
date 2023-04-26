@@ -21,7 +21,9 @@ const Hero = () => {
               Hey, there! 👋
             </p>
             <h1 className='text-lg leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-medium md:tracking-[-2px]'>
-              we design & build <br /> modern websites
+              we design <span class="before:block before:absolute before:-inset-1 before:-skew-y-3  relative inline-block animate-spin">
+                        <span class="relative text-white ">&</span>
+                      </span>build <br /> modern websites
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center text-neutral-100 lg:text-left'>
             we design and build mobile and web apps from concept to final product with in a given time and best quality
@@ -34,8 +36,8 @@ const Hero = () => {
               
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-center h-full rounded-3xl'>
-            {/* <img src={WomanImg} alt='' /> */}
-            <img src={banner} alt='' />
+          
+            <img className="hover:scale-110 h-auto max-w-full rounded-lg"src={banner} alt='' />
           </div>
         </div>
       </div>
