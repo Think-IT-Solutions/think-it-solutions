@@ -12,7 +12,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Testimonials from './components/Testimonials';
 import BackTopBtn from './components/BackTopBtn';
-// import Owners from './components/Owners';
+import Owners from './components/Owners';
 
 const App = () => {
   return (
@@ -26,7 +26,7 @@ const App = () => {
       <Services />
       <Testimonials />
       <Contact />
-      {/* <Owners /> */}
+      <Owners />
       <Footer />
       <BackTopBtn />
     </div>

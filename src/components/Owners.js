@@ -6,34 +6,19 @@ import { owners } from '../data';
 const Owners = () => {
   return (
     <section className=' bg-secondary py-12'>
-      <div className='container mx-auto'>
-        <div
-          className='grid grid-cols-3 md:grid-flow-col'
-          
-        >
+     <div className='container mx-auto '>
+        
+        <div className='grid lg:grid-cols-3 gap-12 justify-center items-center'>
           {owners.map((owner, index) => {
+            const { image, name, description } = owner;
             return (
-          <div
-            className='flex flex-col lg:flex-row gap-12 lg:gap-32'
-            key={index}
-               >
-            <div
-              className='w-48 h-48 lg:w-[328px] lg:h-[328px]'
-              >
-              <img className='rounded-2xl' src={owner.image} alt='' />
-            </div>
-            <div
-              className='flex flex-col max-w-3xl'
-            >
-              <h5 className='font-body text-2xl mb-8 italic font-normal'>
-                {/* {authorText} */}
-              </h5>
-              <div>
-                <p className='text-lg text-accent'>{owner.name}</p>
-                <p>{owner.description}</p>
+              <div className='bg-secondary p-1 items-center justify-around rounded-2xl ml-10' key={index}>
+                <div className='object-scale-down h-48 w-96  flex  mb-14'>
+                <img className='rounded-full object-cover ' src={image} alt='' />
+                </div>
+                <h4 className='text-xl text-accent font-bold mb-2'>{name}</h4>
+                <p className='text-neutral-300'>{description}</p>
               </div>
-            </div>
-          </div>
             );
           })}
         </div>
