@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/think-it-solutions/static/css/main.967666e8.css",
-    "main.js": "/think-it-solutions/static/js/main.50087fe9.js",
+    "main.css": "/think-it-solutions/static/css/main.7db67637.css",
+    "main.js": "/think-it-solutions/static/js/main.4d2695eb.js",
+    "static/media/goodm.png": "/think-it-solutions/static/media/goodm.41d89da27f5e1cf1d973.png",
     "static/media/banner2.png": "/think-it-solutions/static/media/banner2.b3924d6a4b8b19ef9de9.png",
+    "static/media/ayin.png": "/think-it-solutions/static/media/ayin.baef4448f4a28e2885c2.png",
     "static/media/davi.jpg": "/think-it-solutions/static/media/davi.07927c3c45cb73f5a008.jpg",
-    "static/media/ayi.png": "/think-it-solutions/static/media/ayi.5d2b57d8c0d2d1f7ed35.png",
-    "static/media/logo-red.png": "/think-it-solutions/static/media/logo-red.b0d59fe578208277a3c3.png",
     "static/media/kal.jpg": "/think-it-solutions/static/media/kal.64443aa572a0269d57bf.jpg",
     "static/media/wp3.jpg": "/think-it-solutions/static/media/wp3.778f8c8db2bd0893aa9e.jpg",
     "static/media/nearbyg2.jpg": "/think-it-solutions/static/media/nearbyg2.aba467a2d8343ff9bcd8.jpg",
+    "static/media/logo.png": "/think-it-solutions/static/media/logo.e807fee77fca5c4d2610.png",
     "static/media/db2.png": "/think-it-solutions/static/media/db2.b6f7588401d3e345f382.png",
     "static/media/gatcot.jpg": "/think-it-solutions/static/media/gatcot.c1cdb2d72d2a2c16144e.jpg",
     "static/media/ebc.jpg": "/think-it-solutions/static/media/ebc.294ab2b27963b7d734ca.jpg",
-    "static/media/tt2.png": "/think-it-solutions/static/media/tt2.a8e1a65fe9beaf797f90.png",
+    "static/media/reslogo.png": "/think-it-solutions/static/media/reslogo.eec5173b2fedcbbf7a02.png",
+    "static/media/foot-logo.png": "/think-it-solutions/static/media/foot-logo.90e79b80b5b801a4f5f5.png",
     "static/media/selamawit.jpg": "/think-it-solutions/static/media/selamawit.2e5021d8b3b4de4eaa5c.jpg",
     "static/media/joseph.jpg": "/think-it-solutions/static/media/joseph.3d41c4c05e9d3c6e5053.jpg",
     "static/media/services.svg": "/think-it-solutions/static/media/services.0d43785bd1f41e4d0371.svg",
     "static/media/portfolio.svg": "/think-it-solutions/static/media/portfolio.bff8b39169bade93c32b.svg",
     "static/media/testimonials.svg": "/think-it-solutions/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
-    "static/media/p3.webp": "/think-it-solutions/static/media/p3.05179f007af7cd2ad2a6.webp",
     "static/media/contact.svg": "/think-it-solutions/static/media/contact.acdd342ba1db0f98c7cd.svg",
-    "static/media/p4.webp": "/think-it-solutions/static/media/p4.373ffd063f14c91c84c5.webp",
     "static/media/about.svg": "/think-it-solutions/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/think-it-solutions/index.html",
-    "main.967666e8.css.map": "/think-it-solutions/static/css/main.967666e8.css.map",
-    "main.50087fe9.js.map": "/think-it-solutions/static/js/main.50087fe9.js.map"
+    "main.7db67637.css.map": "/think-it-solutions/static/css/main.7db67637.css.map",
+    "main.4d2695eb.js.map": "/think-it-solutions/static/js/main.4d2695eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.967666e8.css",
-    "static/js/main.50087fe9.js"
+    "static/css/main.7db67637.css",
+    "static/js/main.4d2695eb.js"
   ]
 }
