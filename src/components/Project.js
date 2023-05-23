@@ -9,8 +9,8 @@ const Project = ({ item }) => {
       <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
       <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
       <p  className='capitalize text-neutral-200 text-sm mb-3'>{item.description}</p>
-      
-    </div>
+      <p  className='capitalize text-accent text-sm mb-3'>{item.link}</p>
+        </div>
   );
 };
 

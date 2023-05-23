@@ -20,16 +20,16 @@ import BehanceBrandIcon from './assets/img/brands/behance.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
-// import Project1 from './assets/img/projects/p1.webp';
-// import Project2 from './assets/img/projects/p2.webp';
-import Project3 from './assets/img/projects/p3.webp';
-import Project4 from './assets/img/projects/p4.webp';
+import Project1 from './assets/img/projects/goodm.png';
+import Project2 from './assets/img/projects/logo.png';
+// import Project3 from './assets/img/projects/p3.webp';
+// import Project4 from './assets/img/projects/p4.webp';
 // import Project5 from './assets/img/projects/p5.webp';
 // import Project6 from './assets/img/projects/p6.webp';
 import project7 from './assets/img/projects/ebc.jpg'
 import project8 from './assets/img/projects/db2.png'
 import project9 from './assets/img/projects/nearbyg2.jpg'
-import project10 from './assets/img/projects/ayi.png'
+import project10 from './assets/img/projects/ayin.png'
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -135,13 +135,33 @@ export const projectsData = [
     description:"a ui/ux design for a mobile app called nearby garage"
   },
   {
-    id: '2',
-    image: project7,
-    name: 'Contact Directory',
-    category: 'Mobile App Development',
-    description:"a mobile app used to access contact directories for company"
+    id: '6',
+    image: Project1,
+    name: 'Good Mining',
+    category: 'Web Development',
+    description:"a website for a minning company",
+    link:"https://goodmining.epizy.com/",
+    
 
   },
+ 
+  {
+     id: 4, 
+     image: project10,
+     name: ' website',
+     category: 'web development',
+     description:"a wordpress website for NGO organization called AYI(active youth initiative)",
+     link: "https://activeyouthinitiative.com/",
+  },
+  {
+    id: '5',
+    image: Project2,
+    name: 'Think IT',
+    category: 'Branding',
+    description:"Logo and business card for it company"
+
+  },
+
   {
     id: '3',
     image: project8,
@@ -151,28 +171,11 @@ export const projectsData = [
 
   },
   {
-    id: '4',
-    image: project10,
-    name: 'a wordpress website',
-    category: 'web development',
-    description:"a wordpress website for NGO organization called AYI(active youth initiative) http://activeyouthinitiative.epizy.com/"
-  },
-  {
-    id: '5',
-    image: Project4,
-    // name: 'project name 4',
-    category: 'branding',
-    description:"a Branding for a Beauty Company ETCAREE"
-
-  },
-  
-  
-  {
-    id: '6',
-    image: Project3,
-    // name: 'project name 3',
-    category: 'UI/UX design',
-    description:"a ui/ux design for a Beauty Company ETCAREE"
+    id: '2',
+    image: project7,
+    name: 'Contact Directory',
+    category: 'Mobile App Development',
+    description:"a mobile app used to access contact directories for company"
 
   },
 ];
@@ -225,17 +228,17 @@ export const owners = [
   {
     image:OwnerImg1,
     description:"Design and Branding Manager",
-    name:"Davi"
+    name:"Yared Bedane"
   },
   {
     image:OwnerImg2,
     description:"CEO Senior Developer",
-    name:"Kal"
+    name:"Kaleab Hailu"
 
   },{
     image:OwnerImg3,
     description:"Team Leader Senior Developer",
-    name:"Dev"
+    name:"Dawit Lemma"
 
   }
 
@@ -258,7 +261,7 @@ export const services = [
     icon: <FiPenTool />,
     name: 'Branding',
     description:
-      'We provide strategic brand development, logo design, brand messaging, and brand guidelines that ensure consistency across all marketing channels..',
+      'We provide strategic brand development, logo design,BUsiness card, brand messaging, and brand guidelines that ensure consistency across all marketing channels..',
   },
   {
     icon: <FiTag />,
